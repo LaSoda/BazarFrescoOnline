@@ -1,2 +1,0 @@
-# BazarFrescoOnline
-Free BazarFresco Online
